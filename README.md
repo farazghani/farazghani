@@ -5,8 +5,8 @@
 
 **I'm a 3rd-year Computer Science student at UPES, passionate about deep learning, machine learning, and full-stack development.**
 
-- 🧠 Specializing in: Deep Learning, Machine Learning
-- 💻 Backend Skills: Node.js, Express, Mongoose, MongoDB
+- 🧠 Specializing in: ML model pipelines , deployment tools : Docker 
+- 💻 Backend Skills: Node.js, Express, MongoDB, ORMS , SQL .
 - 🐍 Python Enthusiast: Skilled in Python for data science and machine learning projects
 
 ### 🔗 Connect with Me
