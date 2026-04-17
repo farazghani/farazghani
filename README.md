@@ -2,7 +2,7 @@
 
 ** Hello! I'm Faraz Ghani
 
-**I'm a final year Computer Science student at UPES, passionate about deep learning, machine learning, and full-stack development.**
+**I'm a final year Computer Science student at UPES, passionate about genAI.**
 
 - Specializing in: Full stack web development , agentic ai development .
 - Backend Skills: Node.js, Express, MongoDB, ORMS , SQL , supabase , backend architectures , deployment tools .
