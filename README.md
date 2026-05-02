@@ -1,6 +1,6 @@
 
 
-** Hello! I'm Faraz Ghani
+** Hello Fellow coders, vibe coders!
 
 **I'm a final year Computer Science student at UPES, passionate about genAI.**
 
