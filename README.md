@@ -2,7 +2,7 @@
 
 ** Hello Fellow coders, vibe coders!
 
-**I'm a final year Computer Science student at UPES, passionate about genAI.**
+**Backend dev**
 
 - Specializing in: Full stack web development , agentic ai development .
 - Backend Skills: Node.js, Express, MongoDB, ORMS , SQL , supabase , backend architectures , deployment tools .
